@@ -6,10 +6,10 @@ echo "$U"
 
 if [ $U -ne 0 ]
 then
-echo "Your not root user"
+echo "You are not root user"
 exit 1
 
 else
-echo "Your root user"
+echo "You are root user"
 
 fi
