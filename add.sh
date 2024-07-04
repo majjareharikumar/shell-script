@@ -6,3 +6,7 @@ n2=$2
 S=$((n1+n2))
 
 echo "Sum of $n1+$n2 =$S"
+
+D=$(date)
+
+echo "Today date is $D"
